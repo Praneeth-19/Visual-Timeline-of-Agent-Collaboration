@@ -12,38 +12,6 @@ A Streamlit-based application for visualizing and tracking agent interactions ov
 - Persistent data storage
 
 ## Project Structure
-```
-# Visual Timeline of Agent 
-Collaboration
-
-A Streamlit-based 
-application for visualizing 
-and tracking agent 
-interactions over time. This 
-project provides an 
-interactive timeline view of 
-agent collaborations, 
-allowing users to track, 
-analyze, and export agent 
-communication logs.
-
-## Features
-
-- Interactive timeline 
-visualization of agent 
-interactions
-- Real-time log entry 
-addition through a 
-user-friendly sidebar
-- Flexible grouping by agent 
-or topic
-- Detailed log entry viewing 
-with expandable sections
-- Export functionality (CSV 
-and JSON formats)
-- Persistent data storage
-
-## Project Structure
 ├── config/
 │   └── config.py         # Configuration settings
 ├── src/
